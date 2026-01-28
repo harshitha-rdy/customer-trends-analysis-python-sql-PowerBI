@@ -10,4 +10,8 @@ This project focuses on analyzing customer behavior using Python, SQL, and Power
 ## Project Workflow
 ![workflow](https://github.com/harshitha-rdy/customer-trends-analysis-python-sql-PowerBI/blob/1caa1449b16d52010b9aa8e7033fa9c5461c41c3/workflow.png)
 
-
+# Technologies Used
+1. Python
+2. SQL (MySQL)
+3. Power BI
+4. Jupyter Notebook
