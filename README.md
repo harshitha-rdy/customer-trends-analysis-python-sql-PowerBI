@@ -8,5 +8,6 @@ This project focuses on analyzing customer behavior using Python, SQL, and Power
 
 ✅ Visualization & Insights (Power BI): Build an interactive dashboard that highlights key patterns and trends, enabling stakeholders to make data-driven decisions.
 ## Project Workflow
+![workflow](https://github.com/harshitha-rdy/customer-trends-analysis-python-sql-PowerBI/blob/1caa1449b16d52010b9aa8e7033fa9c5461c41c3/workflow.png)
 
 
